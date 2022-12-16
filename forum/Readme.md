@@ -1,1 +1,1 @@
-File that contains the explitable forum
+File that contains the exploitable forum
